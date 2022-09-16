@@ -1,0 +1,19 @@
+{
+  "images" : [
+    {
+      "filename" : "しののんを撃つ 2.pdf",
+      "idiom" : "universal"
+    },
+    {
+      "filename" : "しののんが撃たれた.pdf",
+      "idiom" : "iphone"
+    }
+  ],
+  "info" : {
+    "author" : "xcode",
+    "version" : 1
+  },
+  "properties" : {
+    "preserves-vector-representation" : true
+  }
+}
